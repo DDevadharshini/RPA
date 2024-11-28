@@ -1,0 +1,1 @@
+The count of CSE files are 3, The count of IT files are 2, The count of ECE files are 0, The count of EEE files are 0, The count of MECH files are 1, The count of CSBS files are 0, The count of CIVIL files are 0.
